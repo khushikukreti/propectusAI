@@ -1,1 +1,1 @@
-# propectusAI
+# prospectusAI
